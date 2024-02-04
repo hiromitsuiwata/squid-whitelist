@@ -1,0 +1,14 @@
+security.ubuntu.com
+archive.ubuntu.com
+repo.maven.apache.org
+registry.npmjs.org
+registry-1.docker.io
+auth.docker.io
+production.cloudflare.docker.com
+registry.access.redhat.com
+cdn02.quay.io
+pkg.jenkins.io
+mirrors.jenkins.io
+ftp.yz.yamagata-u.ac.jp
+download.sonatype.com
+sonatype-download.global.ssl.fastly.net
